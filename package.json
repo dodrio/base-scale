@@ -1,6 +1,6 @@
 {
   "name": "base-scale",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Get maximum layout flexibility.",
   "license": "MIT",
   "repository": "m31271n/base-scale",
@@ -13,8 +13,14 @@
     "node": ">=6"
   },
   "scripts": {},
-  "files": ["setup.js", "px2rem.js", "px2rem.scss"],
-  "keywords": [""],
+  "files": [
+    "setup.js",
+    "px2rem.js",
+    "px2rem.scss"
+  ],
+  "keywords": [
+    ""
+  ],
   "dependencies": {},
   "devDependencies": {}
 }
