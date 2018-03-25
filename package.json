@@ -1,0 +1,20 @@
+{
+  "name": "base-scale",
+  "version": "0.0.0",
+  "description": "Get maximum layout flexibility.",
+  "license": "MIT",
+  "repository": "m31271n/base-scale",
+  "author": {
+    "name": "m31271n",
+    "email": "m31271n@gmail.com",
+    "url": "stack.m31271n.com"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {},
+  "files": ["setup.js", "px2rem.js"],
+  "keywords": [""],
+  "dependencies": {},
+  "devDependencies": {}
+}
