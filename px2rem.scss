@@ -1,6 +1,0 @@
-$scale-base-blueprint-width: 750;
-$scale-base-num: 100;
-
-@function px2rem($px) {
-  @return #{$px/$scale-base-blueprint-width * $scale-base-num}rem;
-}
