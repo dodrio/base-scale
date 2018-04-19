@@ -13,14 +13,7 @@
     "node": ">=6"
   },
   "scripts": {},
-  "files": [
-    "setup.js",
-    "px2rem.js",
-    "px2rem.scss"
-  ],
-  "keywords": [
-    ""
-  ],
+  "keywords": [""],
   "dependencies": {},
   "devDependencies": {}
 }
