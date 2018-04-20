@@ -1,6 +1,6 @@
 {
   "name": "base-scale",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Scale layout flexibility.",
   "license": "MIT",
   "repository": "m31271n/base-scale",
@@ -13,7 +13,9 @@
     "node": ">=6"
   },
   "scripts": {},
-  "keywords": [""],
+  "keywords": [
+    ""
+  ],
   "dependencies": {},
   "devDependencies": {}
 }
