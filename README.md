@@ -4,7 +4,7 @@
 [![DevDependency Status](https://img.shields.io/david/m31271n/base-scale.svg)](#)
 [![NPM Downloads](https://img.shields.io/npm/dm/base-scale.svg)](#)
 
-> Get maximum layout flexibility.
+> Scale layout flexibility.
 
 ## Install
 
@@ -26,7 +26,7 @@ setup(750);
 px2rem(200);
 ```
 
-NOTE: `px2rem` must be called after setup.
+> `px2rem` must be called after setup.
 
 ## API
 
